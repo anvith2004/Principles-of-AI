@@ -10,3 +10,5 @@ proj/
 ├── models_no_optuna.py
 ├── models_optuna.py
 └── preprocess_winsorize.py
+
+After this, just Exceute the models_no_optuna.py and models_optuna.py
